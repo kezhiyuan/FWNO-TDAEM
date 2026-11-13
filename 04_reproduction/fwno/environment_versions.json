@@ -1,0 +1,13 @@
+{
+  "python": "3.10.18 | packaged by Anaconda, Inc. | (main, Jun  5 2025, 13:08:55) [MSC v.1929 64 bit (AMD64)]",
+  "platform": "Windows-10-10.0.26200-SP0",
+  "distributions": {
+    "torch": "2.8.0+cu126",
+    "numpy": "2.2.6",
+    "scipy": "1.15.3",
+    "h5py": "3.14.0",
+    "PyYAML": "6.0.2",
+    "matplotlib": "3.10.6",
+    "scikit-learn": "1.7.2"
+  }
+}

@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+/05_runs/
+/04_reproduction/musgrave/out/
+/03_results/synthetic/*.pkl
+/03_results/musgrave/source_models/*.imp
